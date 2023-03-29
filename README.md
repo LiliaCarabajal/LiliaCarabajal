@@ -58,7 +58,7 @@ const conocimientos =[
     ];
 
 
-const Geronimo = new User({
+const Lilia = new User({
     nombre: 'Lilia',
     apellido: 'Carabajal',
     localidad: 'Almagro, Buenos Aires, Argentina',
